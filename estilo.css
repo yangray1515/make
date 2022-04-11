@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    background-color: #ffcbdb;
+  
+
+}
+        
+.box{
+    background-color: #8a3052;
+    margin: 0;
+    opacity: 0.95;
+    width: 100%;
+    height: 50px;
+}
+
+.box_cabecalho-cima{
+    display: flex;
+    justify-content: left;
+    margin: 0 15% 0 15%;
+}
+
+h1{
+    margin: 0;
+}
+
+article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label, input{
+    padding: 15px;
+}
+
+.container_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    padding: 15px;
+    
+}
