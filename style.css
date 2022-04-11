@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    background:#ffcbdb;
+}
+
+.box{
+    margin: 0;
+    background-color: #25121b;
+    width: 100%;
+    opacity: 1;
+}
+
+.box_cabecalho{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 15% 0 15%;
+    align-items: center;
+    background-color:  #25121b;
+}
+.box_cabecalho-titulo{
+    color: #ffcbdb ;
+
+}
+.box_cabecalho_nav_lista-ul{
+    display: flex;
+    list-style-type: none;
+
+}
+
+.box_cabecalho_nav_lista-li{
+    color: #e5ebf1;
+   padding-inline: 20px;
+    
+}
+main{
+    margin: 0 0 0 0;
+}
+
+.paleta{
+    display: flex;
+}
+
+.site1, .site2 {
+    width: 100%;
+}
+
+.conteudo_texto-titulo{
+    text-align: center;
+}
+
+.conteudo_texto-titulo-p{
+      text-align: center;
+      color: #e5ebf1;
+      margin: 5%;
+      background-color: #25121b;
+      
+  }
+  .curso{
+      display: flex;
+      justify-content: space-between;
+    
+  }
+  .compre{
+      text-align: center;
+      background-color: #25121b;
+      color: #e5ebf1;
+      
+  }
+  .juros{
+      text-align: center;
+      background-color: #25121b;
+      color: #e5ebf1;
+  }
